@@ -1,6 +1,5 @@
 # World-University-Ranking-Analysis
 "An Excel-based data analysis project on global university rankings using pivot tables, charts and dashboard visualization"
-# Global University Rankings - Excel Data Analysis Dashboard  
 **Top 2000 Universities | Pivot Tables | Interactive Dashboard**
 
 ## Project Overview
