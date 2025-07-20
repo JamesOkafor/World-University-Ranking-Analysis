@@ -42,7 +42,8 @@ This project analyzes data from the **Top 2000 Universities in the World**, focu
 )
 
 ###  3. Teaching vs Research Scores
-![Teaching vs Research](https://github.com/JamesOkafor/World-University-Ranking-Analysis/blob/main/Top%202000%20world%20University%20ranking3.JPG?raw=true)
+![Teaching vs Research](https://github.com/JamesOkafor/World-University-Ranking-Analysis/blob/main/Top%202000%20world%20University%20ranking3.JPG?raw=true
+)
 
 ###  4. International Outlook by Country
 ![International Outlook](https://github.com/JamesOkafor/World-University-Ranking-Analysis/blob/main/Top%202000%20world%20University%20ranking4.JPG?raw=true)
@@ -51,10 +52,11 @@ This project analyzes data from the **Top 2000 Universities in the World**, focu
 ![Account Category](https://github.com/JamesOkafor/World-University-Ranking-Analysis/blob/main/Top%202000%20world%20University%20ranking5.JPG?raw=true)
 
 ###  6. Top Universities with Most International Students
-![Top Universities Intl](https://github.com/JamesOkafor/World-University-Ranking-Analysis/blob/main/Top%202000%20world%20University%20ranking6.JPG?raw=true)
+![Top Universities Intl](
+https://github.com/JamesOkafor/World-University-Ranking-Analysis/blob/main/Top%202000%20world%20University%20ranking6.JPG?raw=true)
 
 ## Main Excel Dashboard Overview 
-![Main Dashboard]()
+![Main Dashboard](https://github.com/JamesOkafor/World-University-Ranking-Analysis/blob/main/world%20University%20ranking%20dashboard.JPG?raw=true)
 
 ## Project Demonstrates
 
