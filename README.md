@@ -53,6 +53,9 @@ This project analyzes data from the **Top 2000 Universities in the World**, focu
 ###  6. Top Universities with Most International Students
 ![Top Universities Intl](https://github.com/JamesOkafor/World-University-Ranking-Analysis/blob/main/Top%202000%20world%20University%20ranking6.JPG?raw=true)
 
+## Main Excel Dashboard Overview 
+![Main Dashboard]()
+
 ## Project Demonstrates
 
 -  Real-world Excel analytics on multi-country datasets  
