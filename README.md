@@ -34,22 +34,24 @@ This project analyzes data from the **Top 2000 Universities in the World**, focu
 ##  Sample Visuals
 
 ###  1. University Count by Continent
-![University by Continent](images/01_universities_by_continent.png)
+![University by Continent](https://github.com/JamesOkafor/World-University-Ranking-Analysis/blob/main/Top%202000%20world%20University%20ranking1.JPG?raw=true
+)
 
 ###  2. Top Countries by International Students
-![Top Countries](images/02_top_countries_international_students.png)
+![Top Countries](https://github.com/JamesOkafor/World-University-Ranking-Analysis/blob/main/Top%202000%20world%20University%20ranking2.JPG?raw=true
+)
 
 ###  3. Teaching vs Research Scores
-![Teaching vs Research](images/03_teaching_vs_research_scores.png)
+![Teaching vs Research](https://github.com/JamesOkafor/World-University-Ranking-Analysis/blob/main/Top%202000%20world%20University%20ranking3.JPG?raw=true)
 
 ###  4. International Outlook by Country
-![International Outlook](images/04_international_outlook_by_country.png)
+![International Outlook](https://github.com/JamesOkafor/World-University-Ranking-Analysis/blob/main/Top%202000%20world%20University%20ranking4.JPG?raw=true)
 
 ###  5. Account Category Distribution
-![Account Category](images/05_account_category_distribution.png)
+![Account Category](https://github.com/JamesOkafor/World-University-Ranking-Analysis/blob/main/Top%202000%20world%20University%20ranking5.JPG?raw=true)
 
 ###  6. Top Universities with Most International Students
-![Top Universities Intl](images/06_top_universities_international_students.png)
+![Top Universities Intl](https://github.com/JamesOkafor/World-University-Ranking-Analysis/blob/main/Top%202000%20world%20University%20ranking6.JPG?raw=true)
 
 ## Project Demonstrates
 
