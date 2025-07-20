@@ -73,7 +73,7 @@ This project analyzes data from the **Top 2000 Universities in the World**, focu
 **Okafor James**  
 Data Analyst | Excel & BI Specialist | Facilities & Construction Expert 
 Email: [luffwafer@gmail.com]  
-[LinkedIn](https://www.linkedin.com/in/your-profile)  
+[LinkedIn](https://www.linkedin.com/in/james-okafor-229b64266)  
 
 ## Note
 
